@@ -1,1 +1,136 @@
 # tools list
+#
+### Web Links
+#
+#### Lists
+#https://kkovacs.eu/cool-but-obscure-unix-tools/
+#https://inconsolation.wordpress.com/index/
+#https://www.reddit.com/r/commandline/comments/cos7o3/what_are_you_favourite_command_line_tools_for/
+#https://www.reddit.com/r/commandline/comments/9b426l/best_terminal_apps/
+#https://navdeep.svbtle.com/cli-tools
+#https://kmandla.wordpress.com/2009/11/13/a-perceived-sense-of-inferiority/
+#https://www.reddit.com/r/linux/comments/b5n1l5/whats_your_favorite_cli_tool_nobody_knows_about/
+#https://github.com/agarrharr/awesome-cli-apps
+#https://www.reddit.com/r/linux/comments/6y98dm/what_are_your_most_used_command_line_utilities/
+#https://www.reddit.com/r/linux/comments/ad79ti/10_tools_to_power_up_your_command_line_dev/
+#https://dev.to/_darrenburns/10-tools-to-power-up-your-command-line-4id4
+#https://www.reddit.com/r/commandline/comments/1ccvyb/best_command_line_apps_gnulinux/
+#https://www.reddit.com/r/commandline/comments/vohel/what_are_your_three_favorite_command_line_tools/
+#https://www.wezm.net/technical/2019/10/useful-command-line-tools/
+#
+#
+#### Misc. or Unclear Projects 
+#
+#https://github.com/spf13/cobra
+#https://medium.com/@benb88/step-by-step-building-a-modern-cli-app-with-animation-autocompletion-and-binary-distribution-7b9406b37d0a
+#
+#
+#### References
+#
+#Cheat.sh
+#
+#http://cheat.sh/
+#
+#You can also add:
+#cheat () { curl cheat.sh/"$1" }
+#To your .bashrc file so you can just type cheat <command>
+#
+#
+#tldr
+##https://github.com/raylee/tldr-sh-client
+#A fully-functional POSIX shell client for tldr.
+#
+#https://devdocs.io/
+#
+### File and Text Operations 
+#
+#### Fuzzy Searcher and Filters
+#
+#fzf
+#It's an interactive Unix filter for command-line that can be used with any list; files, command history, processes, hostnames, bookmarks, git commits, etc.
+#https://github.com/junegunn/fzf
+#
+#fff
+#A simple file manager written in bash.
+#https://github.com/dylanaraps/fff
+#
+#
+#smenu
+#smenu is a selection filter just like sed is an editing filter.
+#https://github.com/p-gen/smenu
+#
+##just
+#
+#
+#
+#### Text Search 
+#
+#ack
+#grep-like program specifically for large source trees
+#http://beyondgrep.com/
+#If you install via apt, I recommend doing alias ack='ack-grep' or so
+#
+#
+#### Download/Upload Managers
+#
+#lftp
+#basic bittorrent client
+#
+#
+### Terminal Extensions
+#
+#### History Recorders and Traceability 
+#
+##ttyrec
+#Record and play back terminal sessions
+##
+#ipbt
+#Record and play back terminal sessions
+#
+#### Interface Components
+#
+#pv
+#progress bar tools for pipes with speed display
+#
+#bar
+#progress bar tools for pipes with speed display
+#
+#### Piping and I/O Extensions
+#
+#xargs
+#
+### Network Analysis and Debugging
+#
+#
+#
+#
+### Hardware and System Monitoring
+#
+#htop
+#
+#### Disk Space and Usage
+#
+#ncdu
+#NCurses Disk Usage 
+#Ncdu is a disk usage analyzer with an ncurses interface
+#https://dev.yorhel.nl/ncdu
+#
+#disk utility
+#du -hs *
+#du -h | sort -h | tail -n 1000
+#
+#Baobab
+#
+#
+#
+### Fun and Silly Things
+#
+#Cortex
+#CLI Reddit browser
+#http://cortex.glacicle.org/
+#https://github.com/GGLucas/cortex
+#
+#SL
+#Choo Choo
+#
+#
